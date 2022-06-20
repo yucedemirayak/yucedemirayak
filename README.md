@@ -1,8 +1,15 @@
 ### Hi there👋, I'm Yuce
 <p><a href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
 
+##### NOW
+
 - 🌱 I’m currently learning React - Redux - Angular
 - 🔭 I’m currently working on [E-Commerce Project Front-End](https://github.com/yucedemirayak/e-Commerce-React) & [E-Commerce Project Back-End](https://github.com/yucedemirayak/e-Commerce-Back-End)
+
+##### BIO
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.reactjs`, `.c#`, `.asp.net`, `.netcore`, `.webapi` 
+- 📫 Reach me:  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/yucedemirayak/)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
