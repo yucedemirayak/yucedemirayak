@@ -1,18 +1,8 @@
-### Hi there 👋
+### Hi there👋, I'm Yuce
+<p><a href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
 
-
-**yucedemirayak/yucedemirayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React - Redux - Angular
+- 🔭 I’m currently working on [E-Commerce Project Front-End](https://github.com/yucedemirayak/e-Commerce-React) & [E-Commerce Project Back-End](https://github.com/yucedemirayak/e-Commerce-Back-End)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -32,3 +22,6 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/slide.svg" />
