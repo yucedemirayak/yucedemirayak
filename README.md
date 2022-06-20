@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Yuce
-<p><a href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
+<p><a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
 
 ##### NOW
 
