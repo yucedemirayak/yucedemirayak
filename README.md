@@ -31,4 +31,8 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true)
+  
+  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/slide.svg" />
