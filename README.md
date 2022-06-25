@@ -3,7 +3,7 @@
 
 ##### NOW
 
-- 🌱 I’m currently learning React - Redux - Angular
+- 🌱 I’m currently learning React - Redux - Angular -Node.js
 - 🔭 I’m currently working on [E-Commerce Project Front-End](https://github.com/yucedemirayak/e-Commerce-React) & [E-Commerce Project Back-End](https://github.com/yucedemirayak/e-Commerce-Back-End)
 
 ##### BIO
