@@ -1,23 +1,30 @@
 <h1 align='center' >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Yuce</h1>
 
-<p><a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
+<p align='center' >
+<img align='right' src='https://komarev.com/ghpvc/?username=yucedemirayak&style=flat-square' />
+<p align='left'>
+<a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a>
+</p>
+</p>
 
-![](https://komarev.com/ghpvc/?username=yucedemirayak&style=flat-square)
 
 <h2 align='center'> NOW </h2>
-<p>
+</br>
+<p align='center'>
 - 🔭 I’m currently working on Bicubiq CRM
 </p>
 
 <h2 align='center'> 📩  Reach me on </h2>
 </br>
+<div align='center'>
 <a align='center' href="https://www.linkedin.com/in/yucedemirayak/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a align='center' href="mailto:yucedemirayak@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="emailTo_yuce" /></a>
 <a href="https://stackoverflow.com/users/19170574" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="https://www.hackerrank.com/yucedemirayak" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hacker_rank" /></a>
+</div>
 
 </br>
-<h3 align='center'> 🛠️  Technologies and Tools </h3>
+<h2 align='center'> 🛠️  Technologies and Tools </h3>
   </br>
   <p align='center' > 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -38,17 +45,22 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> </a>
   </p>
+</br>
+
+<h2 align='center' > 📊  Analytics </h2>
+
+<p align="center"> 
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucedemirayak&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
+<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=yucedemirayak&theme=prussian" alt="yucedemirayak" />
+</p>
 
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
+<h2 align='center' > Currently Listening </h2>
 
-</br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
-  
-  </br>
-
+<p align='center'>
 <a align='center' href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
 <img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
 </a>
+</p>
