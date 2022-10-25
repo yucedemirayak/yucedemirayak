@@ -3,12 +3,10 @@
 
 ##### NOW
 
-- 🌱 I’m currently learning React - Redux - Angular - Node.js - Electron.js
-- 🔭 I’m currently working on [E-Commerce Project Front-End](https://github.com/yucedemirayak/e-Commerce-React) & [E-Commerce Project Back-End](https://github.com/yucedemirayak/e-Commerce-Back-End)
+- 🔭 I’m currently working on Bicubiq CRM
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.reactjs`, `.c#`, `.asp.net`, `.netcore`, `.webapi` , `.electron.js`, `node.js`, `.mssql` ,`.mongodb`
 - 📫 Reach me:  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/yucedemirayak/)
 
 <details>
@@ -28,7 +26,11 @@
     <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore6" width="40" height="40"/> </a>
     <a href="https://www.electronjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron.js" width="40" height="40"/> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a>
-        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  </p>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> </a>
   </p>
 </details>
 
