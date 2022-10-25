@@ -1,5 +1,8 @@
-### Hi there👋, I'm Yuce
+## <p align='center' >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Yuce</p>
+
 <p><a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
+
+![](https://komarev.com/ghpvc/?username=yucedemirayak&style=flat-square)
 
 ##### NOW
 
@@ -7,12 +10,12 @@
 
 ##### BIO
 
-- 📫 Reach me:  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/yucedemirayak/)
+- 📫 Reach me: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/yucedemirayak/)
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"> 
+</br>
+<h3 align='center'> 🛠️  Technologies and Tools </h3>
+  </br>
+  <p align='left' > 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -32,12 +35,19 @@
   </p>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> </a>
   </p>
-</details>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
+</br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=prussian&hide_border=true" alt="yucedemirayaktoplangs" />
+
+</br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yucedemirayak&show_icons=true&theme=prussian" alt="yucedemirayakstats" />
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true)
-  
-  
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/slide.svg" />
+  </br>
+
+<center>
+<a align="center" href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
+<img src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
+</a>
+</center>
