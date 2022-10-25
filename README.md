@@ -15,7 +15,7 @@
 </br>
 <h3 align='center'> 🛠️  Technologies and Tools </h3>
   </br>
-  <p align='left' > 
+  <p align='center' > 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -32,7 +32,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  </p>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> </a>
   </p>
 
@@ -46,8 +45,8 @@
   
   </br>
 
-<center>
-<a align="center" href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
-<img src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
+
+<a align='center' href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
+<img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
 </a>
-</center>
+
