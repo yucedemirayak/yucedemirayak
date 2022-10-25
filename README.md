@@ -3,7 +3,7 @@
 <p align='center' >
 <img align='right' src='https://komarev.com/ghpvc/?username=yucedemirayak&style=flat-square' />
 <p align='left'>
-<a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a>
+<a target="blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a>
 </p>
 </p>
 
