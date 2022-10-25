@@ -7,8 +7,7 @@
 </p>
 </p>
 
-
-<h2 align='center'> NOW </h2>
+<h2 align='center'> 🕘 NOW 🕕 </h2>
 </br>
 <p align='center'>
 - 🔭 I’m currently working on Bicubiq CRM
@@ -57,7 +56,7 @@
 
 </br>
 
-<h2 align='center' > Currently Listening </h2>
+<h2 align='center' > 🎧 Currently Listening </h2>
 
 <p align='center'>
 <a align='center' href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
