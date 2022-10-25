@@ -1,16 +1,20 @@
-## <p align='center' >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Yuce</p>
+<h1 align='center' >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Yuce</h1>
 
 <p><a target="_blank" href="https://www.yucedemirayak.com">➡️ Check out my website</a></p>
 
 ![](https://komarev.com/ghpvc/?username=yucedemirayak&style=flat-square)
 
-##### NOW
-
+<h2 align='center'> NOW </h2>
+<p>
 - 🔭 I’m currently working on Bicubiq CRM
+</p>
 
-##### BIO
-
-- 📫 Reach me: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/yucedemirayak/)
+<h2 align='center'> 📩  Reach me on </h2>
+</br>
+<a align='center' href="https://www.linkedin.com/in/yucedemirayak/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a align='center' href="mailto:yucedemirayak@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="emailTo_yuce" /></a>
+<a href="https://stackoverflow.com/users/19170574" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+<a href="https://www.hackerrank.com/yucedemirayak" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hacker_rank" /></a>
 
 </br>
 <h3 align='center'> 🛠️  Technologies and Tools </h3>
@@ -45,8 +49,6 @@
   
   </br>
 
-
 <a align='center' href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
 <img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
 </a>
-
