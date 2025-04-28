@@ -49,11 +49,3 @@
 </p>
 
 </br>
-
-<h2 align='center' > 🎧 Currently Listening </h2>
-
-<p align='center'>
-<a align='center' href='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&redirect=true'>
-<img align='center' src='https://spotify-github-profile.vercel.app/api/view?uid=nowwhat%3F&cover_image=true&theme=default&bar_color=1b4de4&bar_color_cover=true' />
-</a>
-</p>
