@@ -7,12 +7,6 @@
 </p>
 </p>
 
-<h2 align='center'> 🕘 NOW 🕕 </h2>
-</br>
-<p align='center'>
-- 🔭 I’m currently working on Bicubiq CRM
-</p>
-
 <h2 align='center'> 📩  Reach me on </h2>
 </br>
 <div align='center'>
