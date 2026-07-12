@@ -80,8 +80,10 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <sub><b>DATABASES &amp; ORM</b></sub><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-24283b?style=flat&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/SQL_Server-24283b?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNC41IiByeD0iOCIgcnk9IjIuNSIvPjxwYXRoIGQ9Ik00IDcuNWMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMtMS43IDEuMi00LjYgMS45LTggMS45cy02LjMtLjctOC0xLjl6Ii8%2BPHBhdGggZD0iTTQgMTMuNGMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMwIDEuNC0zLjYgMi41LTggMi41cy04LTEuMS04LTIuNXoiLz48L3N2Zz4%3D" />
+<img src="https://img.shields.io/badge/MongoDB-24283b?style=flat&logo=mongodb&logoColor=47A248" />
 <details>
-<summary><code>+5 more</code></summary>
+<summary><code>+6 more</code></summary>
+<img src="https://img.shields.io/badge/SQLite-24283b?style=flat&logo=sqlite&logoColor=0F80CC" />
 <img src="https://img.shields.io/badge/EF_Core-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-24283b?style=flat&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeORM-24283b?style=flat&logo=typeorm&logoColor=FE0803" />
