@@ -49,8 +49,10 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Next.js-24283b?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-24283b?style=flat&logo=react&logoColor=61DAFB" />
 <details>
-<summary><small><b>+5 MORE</b></small></summary>
+<summary><code>+7 more</code></summary>
 <img src="https://img.shields.io/badge/Tailwind_CSS-24283b?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Bootstrap-24283b?style=flat&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/Sass-24283b?style=flat&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/Redux-24283b?style=flat&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-24283b?style=flat&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-24283b?style=flat&logo=vite&logoColor=646CFF" />
@@ -66,7 +68,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Express.js-24283b?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-24283b?style=flat&logo=fastapi&logoColor=009688" />
 <details>
-<summary><small><b>+4 MORE</b></small></summary>
+<summary><code>+4 more</code></summary>
 <img src="https://img.shields.io/badge/SignalR-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/MediatR-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/AutoMapper-24283b?style=flat&logo=dotnet&logoColor=white" />
@@ -79,7 +81,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/PostgreSQL-24283b?style=flat&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/SQL_Server-24283b?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNC41IiByeD0iOCIgcnk9IjIuNSIvPjxwYXRoIGQ9Ik00IDcuNWMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMtMS43IDEuMi00LjYgMS45LTggMS45cy02LjMtLjctOC0xLjl6Ii8%2BPHBhdGggZD0iTTQgMTMuNGMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMwIDEuNC0zLjYgMi41LTggMi41cy04LTEuMS04LTIuNXoiLz48L3N2Zz4%3D" />
 <details>
-<summary><small><b>+5 MORE</b></small></summary>
+<summary><code>+5 more</code></summary>
 <img src="https://img.shields.io/badge/EF_Core-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-24283b?style=flat&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeORM-24283b?style=flat&logo=typeorm&logoColor=FE0803" />
@@ -94,7 +96,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/TensorFlow-24283b?style=flat&logo=tensorflow&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/YOLO-24283b?style=flat&logo=ultralytics&logoColor=white" />
 <details>
-<summary><small><b>+7 MORE</b></small></summary>
+<summary><code>+7 more</code></summary>
 <img src="https://img.shields.io/badge/scikit--learn-24283b?style=flat&logo=scikitlearn&logoColor=F7931E" />
 <img src="https://img.shields.io/badge/NumPy-24283b?style=flat&logo=numpy&logoColor=4DABCF" />
 <img src="https://img.shields.io/badge/Pandas-24283b?style=flat&logo=pandas&logoColor=white" />
@@ -119,7 +121,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Tailscale-24283b?style=flat&logo=tailscale&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-24283b?style=flat&logo=githubactions&logoColor=2088FF" />
 <details>
-<summary><small><b>+3 MORE</b></small></summary>
+<summary><code>+3 more</code></summary>
 <img src="https://img.shields.io/badge/Coolify-24283b?style=flat&logo=coolify&logoColor=white" />
 <img src="https://img.shields.io/badge/Runtipi-24283b?style=flat" />
 <img src="https://img.shields.io/badge/Vercel-24283b?style=flat&logo=vercel&logoColor=white" />
@@ -131,7 +133,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Arch_Linux-24283b?style=flat&logo=archlinux&logoColor=1793D1" />
 <img src="https://img.shields.io/badge/Git-24283b?style=flat&logo=git&logoColor=F05032" />
 <details>
-<summary><small><b>+4 MORE</b></small></summary>
+<summary><code>+4 more</code></summary>
 <img src="https://img.shields.io/badge/Postman-24283b?style=flat&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/Swagger-24283b?style=flat&logo=swagger&logoColor=85EA2D" />
 <img src="https://img.shields.io/badge/Vitest-24283b?style=flat&logo=vitest&logoColor=6E9F18" />
