@@ -106,7 +106,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 </div>
 
 <div align="center">
-<sub><b>ML RESEARCH · EXPLORATORY</b></sub><br/>
+<sub><b>ML RESEARCH — EXPLORATORY</b></sub><br/>
 <img src="https://img.shields.io/badge/PyTorch-24283b?style=flat&logo=pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/TensorFlow-24283b?style=flat&logo=tensorflow&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/YOLO-24283b?style=flat&logo=ultralytics&logoColor=white" />
