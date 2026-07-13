@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=I+build+things+end+to+end;and+like+knowing+what's+under+the+hood" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=I+build+things+end+to+end;and+like+knowing+what's+under+the+hood;quick+to+solve%2C+built+to+hold" />
 </p>
 
 <br/>
@@ -41,6 +41,11 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/TypeScript-24283b?style=flat&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/C%23-24283b?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg%3D%3D" />
 <img src="https://img.shields.io/badge/Python-24283b?style=flat&logo=python&logoColor=FFD43B" />
+<details>
+<summary><code>more</code></summary>
+<img src="https://img.shields.io/badge/JavaScript-24283b?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-24283b?style=flat" />
+</details>
 </div>
 
 <div align="center">
@@ -49,7 +54,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Next.js-24283b?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-24283b?style=flat&logo=react&logoColor=61DAFB" />
 <details>
-<summary><code>+7 more</code></summary>
+<summary><code>more</code></summary>
 <img src="https://img.shields.io/badge/Tailwind_CSS-24283b?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/Bootstrap-24283b?style=flat&logo=bootstrap&logoColor=7952B3" />
 <img src="https://img.shields.io/badge/Sass-24283b?style=flat&logo=sass&logoColor=CC6699" />
@@ -68,7 +73,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Express.js-24283b?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-24283b?style=flat&logo=fastapi&logoColor=009688" />
 <details>
-<summary><code>+4 more</code></summary>
+<summary><code>more</code></summary>
 <img src="https://img.shields.io/badge/SignalR-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/MediatR-24283b?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/AutoMapper-24283b?style=flat&logo=dotnet&logoColor=white" />
@@ -80,11 +85,11 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <sub><b>DATABASES &amp; ORM</b></sub><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-24283b?style=flat&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/SQL_Server-24283b?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNC41IiByeD0iOCIgcnk9IjIuNSIvPjxwYXRoIGQ9Ik00IDcuNWMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMtMS43IDEuMi00LjYgMS45LTggMS45cy02LjMtLjctOC0xLjl6Ii8%2BPHBhdGggZD0iTTQgMTMuNGMxLjcgMS4yIDQuNiAxLjkgOCAxLjlzNi4zLS43IDgtMS45djMuMmMwIDEuNC0zLjYgMi41LTggMi41cy04LTEuMS04LTIuNXoiLz48L3N2Zz4%3D" />
-<img src="https://img.shields.io/badge/MongoDB-24283b?style=flat&logo=mongodb&logoColor=47A248" />
-<details>
-<summary><code>+6 more</code></summary>
-<img src="https://img.shields.io/badge/SQLite-24283b?style=flat&logo=sqlite&logoColor=0F80CC" />
 <img src="https://img.shields.io/badge/EF_Core-24283b?style=flat&logo=dotnet&logoColor=white" />
+<details>
+<summary><code>more</code></summary>
+<img src="https://img.shields.io/badge/SQLite-24283b?style=flat&logo=sqlite&logoColor=0F80CC" />
+<img src="https://img.shields.io/badge/MongoDB-24283b?style=flat&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Prisma-24283b?style=flat&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeORM-24283b?style=flat&logo=typeorm&logoColor=FE0803" />
 <img src="https://img.shields.io/badge/SQLAlchemy-24283b?style=flat&logo=sqlalchemy&logoColor=D71F00" />
@@ -93,12 +98,20 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 </div>
 
 <div align="center">
-<sub><b>ML &amp; DATA SCIENCE</b></sub><br/>
+<sub><b>ML ENGINEERING</b></sub><br/>
+<img src="https://img.shields.io/badge/TorchScript-24283b?style=flat&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/pydicom-24283b?style=flat" />
+<img src="https://img.shields.io/badge/Cornerstone.js-24283b?style=flat" />
+<img src="https://img.shields.io/badge/OHIF-24283b?style=flat" />
+</div>
+
+<div align="center">
+<sub><b>ML RESEARCH · EXPLORATORY</b></sub><br/>
 <img src="https://img.shields.io/badge/PyTorch-24283b?style=flat&logo=pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/TensorFlow-24283b?style=flat&logo=tensorflow&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/YOLO-24283b?style=flat&logo=ultralytics&logoColor=white" />
 <details>
-<summary><code>+7 more</code></summary>
+<summary><code>more</code></summary>
 <img src="https://img.shields.io/badge/scikit--learn-24283b?style=flat&logo=scikitlearn&logoColor=F7931E" />
 <img src="https://img.shields.io/badge/NumPy-24283b?style=flat&logo=numpy&logoColor=4DABCF" />
 <img src="https://img.shields.io/badge/Pandas-24283b?style=flat&logo=pandas&logoColor=white" />
@@ -110,20 +123,13 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 </div>
 
 <div align="center">
-<sub><b>MEDICAL IMAGING</b></sub><br/>
-<img src="https://img.shields.io/badge/pydicom-24283b?style=flat" />
-<img src="https://img.shields.io/badge/Cornerstone.js-24283b?style=flat" />
-<img src="https://img.shields.io/badge/OHIF-24283b?style=flat" />
-</div>
-
-<div align="center">
 <sub><b>INFRA &amp; DEVOPS</b></sub><br/>
 <img src="https://img.shields.io/badge/Docker-24283b?style=flat&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Cloudflare-24283b?style=flat&logo=cloudflare&logoColor=F38020" />
 <img src="https://img.shields.io/badge/Tailscale-24283b?style=flat&logo=tailscale&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-24283b?style=flat&logo=githubactions&logoColor=2088FF" />
 <details>
-<summary><code>+3 more</code></summary>
+<summary><code>more</code></summary>
 <img src="https://img.shields.io/badge/Coolify-24283b?style=flat&logo=coolify&logoColor=white" />
 <img src="https://img.shields.io/badge/Runtipi-24283b?style=flat" />
 <img src="https://img.shields.io/badge/Vercel-24283b?style=flat&logo=vercel&logoColor=white" />
@@ -135,7 +141,7 @@ A **full-stack software engineer**. What I'm best at is solving problems the pra
 <img src="https://img.shields.io/badge/Arch_Linux-24283b?style=flat&logo=archlinux&logoColor=1793D1" />
 <img src="https://img.shields.io/badge/Git-24283b?style=flat&logo=git&logoColor=F05032" />
 <details>
-<summary><code>+4 more</code></summary>
+<summary><code>more</code></summary>
 <img src="https://img.shields.io/badge/Postman-24283b?style=flat&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/Swagger-24283b?style=flat&logo=swagger&logoColor=85EA2D" />
 <img src="https://img.shields.io/badge/Vitest-24283b?style=flat&logo=vitest&logoColor=6E9F18" />
